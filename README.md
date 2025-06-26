@@ -49,7 +49,7 @@ This project demonstrates the implementation and understanding of **Simple Linea
 ## 📉 Model Evaluation
 
 | Metric                         | Value (Example) |
-|-------------------------------|-----------------|
+
 Mean Absolute Error (MAE):    0.014743467219633363
 Mean Squared Error (MSE):      0.0004191001643213589
 R² Score:          0.9936673351188164
